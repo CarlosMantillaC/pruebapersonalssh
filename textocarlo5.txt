@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
-Hola desde frontendaasss
-=======
-Hola desde frontendaaffff
->>>>>>> Stashed changes
+Hola desde frontendqqqq
+
